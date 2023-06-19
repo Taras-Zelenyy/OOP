@@ -33,6 +33,10 @@ item5 = Item("Keyboard", 75, 5)
 
 print(Item.all)
 
+
+# for instance in Item.all:
+
+
 # for instance in Item.all:
 #     print(instance.name)
 
